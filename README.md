@@ -1,0 +1,2 @@
+# blog
+Questionable Wisdom
