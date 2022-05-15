@@ -30,7 +30,7 @@ twitter_username: chad_groft
 github_username:  clgroft
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
